@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
      let li = document.createElement('li');
      li.innerHTML =`${input} `;
      list.appendChild(li);
-     console.log(ul);
+     
 
 });
 
